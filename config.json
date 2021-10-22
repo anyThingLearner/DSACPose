@@ -1,0 +1,6 @@
+{
+  "kitti_road":
+  {
+    "data_path": "/data0/data/KITTI/road_seg/data_road/"
+  }
+}
